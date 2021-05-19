@@ -1,7 +1,7 @@
 # Auto-GJACK
 This is a script that automatically does grammar jacks in ROBLOX, I made this a while ago but it's public now. Made primarily for Ro-Nation's and military groups, can do infinite jacks.
 
-
+As per most of my projects, you're free to utilize, modify, and build upon this code. Just make sure to credit me as the original creator if you ever publicize it!
 
 
 

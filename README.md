@@ -1,5 +1,5 @@
 # Auto-GJACK
-[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/DocEmerald/Auto-GrammarJacks/)
+[![Hits](https://hits.sh/github.com/DocEmerald/Auto-GrammarJacks.svg?label=views)](https://hits.sh/github.com/DocEmerald/Auto-GrammarJacks/)
 
 This is a script that automatically does grammar/jumping jacks in ROBLOX, I made this a while ago but it's public now. Made primarily for Ro-Nation's and military groups, can do infinite jacks.
 
